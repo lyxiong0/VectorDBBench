@@ -1,0 +1,220 @@
+vectordb_bench/frontend/config/dbCaseConfigs.py
+  f613eeeb9ab522e5 2242-2250,2272,2285 gitai:{"mixed_line_ranges":[{"Single":2247}],"operations":[{"operation_id":"6a201758a7eac8ae4a552664","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Range":[2242,2250]},{"Single":2272},{"Single":2285}]}]}
+vectordb_bench/backend/clients/volcano_milvus/config.py
+  f613eeeb9ab522e5 50,84-89 gitai:{"mixed_line_ranges":[{"Single":50}],"operations":[{"operation_id":"6a201758a7eac8ae4a552664","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Single":50},{"Range":[84,89]}]}]}
+vectordb_bench/models.py
+  f613eeeb9ab522e5 149 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a201758a7eac8ae4a552664","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Single":149}]}]}
+vectordb_bench/backend/clients/volcano_milvus/cli.py
+  f613eeeb9ab522e5 148-157,187 gitai:{"mixed_line_ranges":[{"Range":[154,155]}],"operations":[{"operation_id":"6a201758a7eac8ae4a552664","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Range":[148,157]},{"Single":187}]}]}
+vectordb_bench/backend/clients/volcano_milvus/volcano_milvus.py
+  f613eeeb9ab522e5 116-120 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a201758a7eac8ae4a552664","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Range":[116,120]}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "3db127c4a4e14adf7f71d115e48bda888c3e2ec9",
+  "prompts": {
+    "f613eeeb9ab522e5": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a2012294fd211468f7f6de6",
+        "model": "openrouter-2o__dev"
+      },
+      "human_author": "xiongliyao.xly <xiongliyao.xly@bytedance.com>",
+      "messages": [],
+      "total_additions": 33,
+      "total_deletions": 5,
+      "accepted_lines": 29,
+      "overriden_lines": 4
+    }
+  },
+  "attestation_metadata": {
+    "vectordb_bench/backend/clients/volcano_milvus/cli.py": [
+      {
+        "hash": "f613eeeb9ab522e5",
+        "line_ranges": [
+          {
+            "Range": [
+              148,
+              157
+            ]
+          },
+          {
+            "Single": 187
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Range": [
+              154,
+              155
+            ]
+          }
+        ],
+        "operations": [
+          {
+            "operation_id": "6a201758a7eac8ae4a552664",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Range": [
+                  148,
+                  157
+                ]
+              },
+              {
+                "Single": 187
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "vectordb_bench/backend/clients/volcano_milvus/config.py": [
+      {
+        "hash": "f613eeeb9ab522e5",
+        "line_ranges": [
+          {
+            "Single": 50
+          },
+          {
+            "Range": [
+              84,
+              89
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 50
+          }
+        ],
+        "operations": [
+          {
+            "operation_id": "6a201758a7eac8ae4a552664",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Single": 50
+              },
+              {
+                "Range": [
+                  84,
+                  89
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "vectordb_bench/backend/clients/volcano_milvus/volcano_milvus.py": [
+      {
+        "hash": "f613eeeb9ab522e5",
+        "line_ranges": [
+          {
+            "Range": [
+              116,
+              120
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a201758a7eac8ae4a552664",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Range": [
+                  116,
+                  120
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "vectordb_bench/frontend/config/dbCaseConfigs.py": [
+      {
+        "hash": "f613eeeb9ab522e5",
+        "line_ranges": [
+          {
+            "Range": [
+              2242,
+              2250
+            ]
+          },
+          {
+            "Single": 2272
+          },
+          {
+            "Single": 2285
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 2247
+          }
+        ],
+        "operations": [
+          {
+            "operation_id": "6a201758a7eac8ae4a552664",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Range": [
+                  2242,
+                  2250
+                ]
+              },
+              {
+                "Single": 2272
+              },
+              {
+                "Single": 2285
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "vectordb_bench/models.py": [
+      {
+        "hash": "f613eeeb9ab522e5",
+        "line_ranges": [
+          {
+            "Single": 149
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a201758a7eac8ae4a552664",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Single": 149
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "f613eeeb9ab522e5": {
+      "tool": "trae",
+      "conversation_id": "6a2012294fd211468f7f6de6",
+      "session_id": "6a2012294fd211468f7f6de6",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
