@@ -1,0 +1,11 @@
+vectordb_bench/backend/clients/volcano_milvus/config.py
+  f613eeeb9ab522e5 70,81,84-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "eae22afa0eefee446174288978856a98e321fe70",
+  "prompts": {},
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
