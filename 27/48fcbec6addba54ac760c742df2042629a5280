@@ -1,0 +1,33 @@
+vectordb_bench/frontend/config/dbCaseConfigs.py
+  f613eeeb9ab522e5 2176,2230-2232,2235,2238-2241,2259-2261,2272,2285
+vectordb_bench/backend/clients/volcano_milvus/cli.py
+  f613eeeb9ab522e5 137,139-140,144,146-154,156-157,187
+vectordb_bench/models.py
+  f613eeeb9ab522e5 150
+vectordb_bench/backend/clients/volcano_milvus/volcano_milvus.py
+  f613eeeb9ab522e5 103,117-118,120
+vectordb_bench/backend/clients/volcano_milvus/config.py
+  f613eeeb9ab522e5 70,82,85-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "2748fcbec6addba54ac760c742df2042629a5280",
+  "prompts": {
+    "f613eeeb9ab522e5": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a2012294fd211468f7f6de6",
+        "model": "openrouter-2o__dev"
+      },
+      "human_author": "xiongliyao.xly <xiongliyao.xly@bytedance.com>",
+      "messages": [],
+      "total_additions": 33,
+      "total_deletions": 5,
+      "accepted_lines": 26,
+      "overriden_lines": 0
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}

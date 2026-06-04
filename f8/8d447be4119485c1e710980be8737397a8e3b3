@@ -1,0 +1,17 @@
+vectordb_bench/frontend/config/dbCaseConfigs.py
+  f613eeeb9ab522e5 2176,2228-2230
+vectordb_bench/backend/clients/volcano_milvus/cli.py
+  f613eeeb9ab522e5 113
+vectordb_bench/backend/clients/volcano_milvus/config.py
+  f613eeeb9ab522e5 57
+vectordb_bench/backend/clients/volcano_milvus/volcano_milvus.py
+  f613eeeb9ab522e5 103,107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "f88d447be4119485c1e710980be8737397a8e3b3",
+  "prompts": {},
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
