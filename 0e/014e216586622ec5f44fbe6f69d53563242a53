@@ -1,0 +1,25 @@
+vectordb_bench/models.py
+  926ffb78960f9863 5,327-328,373-388,391-393
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "0e014e216586622ec5f44fbe6f69d53563242a53",
+  "prompts": {
+    "926ffb78960f9863": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a2234eb982ce7900d2dc8b1",
+        "model": "openrouter-3o__dev"
+      },
+      "human_author": "xiongliyao.xly <xiongliyao.xly@bytedance.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 22,
+      "overriden_lines": 0
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
